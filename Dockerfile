@@ -1,4 +1,4 @@
-FROM resin/rpi-raspbian:jessie
+FROM resin/rpi-raspbian:stretch
 MAINTAINER Carlos Moro <dordoka@gmail.com>
 
 ENV DEBIAN_FRONTEND=noninteractive
